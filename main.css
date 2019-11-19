@@ -1,0 +1,77 @@
+/*  
+///Mon code CSS pour le rendu 1 de la WebTrack"//
+*/
+
+#main{
+    font-family: arial;
+}
+
+.center-pic{
+    display:block;
+    margin : auto;
+}
+
+.center-txt{
+    text-align: center;
+}
+
+#top-band{
+    margin:0px;
+    padding:0px;
+    border:5px black solid;
+    background:black;
+}
+
+#top-band ul{
+    text-align:center;
+}
+
+#top-band ul li {
+    display:inline-block;
+    margin:5px;
+}
+
+#top-band ul li a{
+    text-align:center;
+    text-transform:uppercase;
+    color:white;
+}
+
+#pic-foceen{
+    margin:0px;
+    padding:0px;
+    width:100%;
+}
+
+#team-word{
+    margin:0px;
+    padding:10px;
+    background:#E1DFDF;
+}
+
+#day-schedule{
+    margin:0px;
+    padding:10px;
+    background:#9CD1E7;
+}
+
+#day-stand{
+    margin:0px;
+    padding:5px;
+    background:rgd(255,255,255);
+}
+
+#day-stand h3{
+    margin:0px 33%;
+    padding:5px;
+    width:30%;
+    height:30%;
+    text-align:center;
+    position:center;
+    background:red;
+}
+
+#day-stand div {
+    text-align:center;
+}
+
