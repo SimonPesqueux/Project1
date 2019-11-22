@@ -49,6 +49,14 @@
     background:#E1DFDF;
 }
 
+.title-band{
+    margin:5px 0px;
+    padding:5px;
+    text-align:center;
+    background:black; 
+    color:white;     
+}
+
 #day-schedule{
     margin:0px;
     padding:10px;

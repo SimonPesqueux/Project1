@@ -1,0 +1,1 @@
+alert("Yo Ninja, Welcome to my website !");
